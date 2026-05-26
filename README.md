@@ -1,7 +1,8 @@
 # Glass Box AI: PCATT Career Wayfinder
 **Purpose**: A proof-of-concept GraphRAG application designed to provide traceable, reliable career pathways by anchoring local educational data (PCATT) to national cybersecurity standards (NIST NICE) and industry credentials (C3 Mapping).
 
-## Frontend: [FE Github Repo] (https://github.com/sadieflick/PCATT_KG_Demo_FE.git)
+## Frontend: 
+[https://github.com/sadieflick/PCATT_KG_Demo_FE.git][FE Github Repo] 
 ## Backend: [BE Github Repo] ()
 
 ## The "Fixed Entity" Architecture (FEA)
