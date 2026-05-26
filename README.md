@@ -2,8 +2,9 @@
 **Purpose**: A proof-of-concept GraphRAG application designed to provide traceable, reliable career pathways by anchoring local educational data (PCATT) to national cybersecurity standards (NIST NICE) and industry credentials (C3 Mapping).
 
 ## Frontend: 
-[https://github.com/sadieflick/PCATT_KG_Demo_FE.git][FE Github Repo] 
-## Backend: [BE Github Repo] ()
+[FE Github Repo](https://github.com/sadieflick/PCATT_KG_Demo_FE.git)
+## Backend: 
+[BE Github Repo](https://github.com/sadieflick/glassbox_backend_PCATT_demo)
 
 ## The "Fixed Entity" Architecture (FEA)
 Unlike traditional RAG which "hallucinates" relationships, this project uses a 3-layer architecture:
