@@ -19,6 +19,9 @@ IBM GraphRag Explainer
 GraphRAG Tutorial \- Thu Vu   
 [https://medium.com/@vuthihienthu.ueb/graphrag-building-a-better-ai-system-full-tutorial-8dd609312e46](https://medium.com/@vuthihienthu.ueb/graphrag-building-a-better-ai-system-full-tutorial-8dd609312e46)
 
+LLM-Specific Strategy Context: Text-to-SQL vs. Semantic Layer
+[https://docs.getdbt.com/blog/semantic-layer-vs-text-to-sql-2026?version=1.13]((https://medium.com/@vuthihienthu.ueb/graphrag-building-a-better-ai-system-full-tutorial-8dd609312e46))
+
 #### Data for this Presentation:
 
 NIST NICE Framework for Task-Knowledge-Skill (TKS)  
